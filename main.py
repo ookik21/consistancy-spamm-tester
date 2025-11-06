@@ -1,3 +1,5 @@
+# main - version 1.0
+
 from input_ import start_thread_key_press_listener
 from cps import threads_cps
 from stats_manager import start_stats_threads
